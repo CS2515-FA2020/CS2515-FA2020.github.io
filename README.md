@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# CSC 2515 Fall 2020
 
-You can use the [editor on GitHub](https://github.com/CS2515-FA2020/CS2515-FA2020.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Machine Learning
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Overview
+Machine learning is a set of techniques that allow machines to learn from data and experience, rather than requiring humans to specify the desired behavior by hand. Over the past two decades, machine learning techniques have become increasingly central both in AI as an academic field, and in the technology industry. This course provides a broad introduction to some of the most commonly used ML algorithms.
 
-### Markdown
+The first half of the course focuses on supervised learning. We begin with nearest neighbours, decision trees, and ensembles. Then we introduce parametric models, including linear regression, logistic and softmax regression, and neural networks. We then move on to unsupervised learning, focusing in particular on probabilistic models, but also principal components analysis and K-means. Finally, we cover the basics of reinforcement learning.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Where and When
 
-```markdown
-Syntax highlighted code block
+There is a single section of the course. Tutorials will be held in the main lecture room.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+For more details see
 
-1. Numbered
-2. List
+### Contact
+- 
+- 
 
-**Bold** and _Italic_ and `Code` text
+### Policies
 
-[Link](url) and ![Image](src)
-```
+Having it out.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Homeworks
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CS2515-FA2020/CS2515-FA2020.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
